@@ -1,5 +1,4 @@
 # Certificator
-
 Create certificates for you events or teams easy
 
 # Features
