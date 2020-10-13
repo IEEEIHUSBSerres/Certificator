@@ -33,7 +33,7 @@
 
         <vavr.version>0.10.0</vavr.version>
         <lombok.version>1.18.8</lombok.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <forms_rt.version>7.0.3</forms_rt.version>
     </properties>
 
